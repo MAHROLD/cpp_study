@@ -29,4 +29,4 @@ ex: 7600'000'000'000
 - const keyword declared with var
 - enum constants
 - constexpr keyword
--  # define (defined constants)
+-  #define (defined constants)
